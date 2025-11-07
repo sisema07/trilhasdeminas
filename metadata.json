@@ -1,0 +1,8 @@
+{
+  "name": "Trilhas de Minas",
+  "description": "A modernized Progressive Web App for exploring the state parks of Minas Gerais. Discover trails, earn badges by checking in with QR codes, and stamp your adventure photos. This app is designed to work offline, making it the perfect companion for your explorations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
